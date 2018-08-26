@@ -1,0 +1,62 @@
+Java
+- web кроулинг: сканить сайты и добавлять в индекс
+- hash code
+- gc. Start the workd
+- enum
+- interface vs abstract class
+- класс маркер, с помощью каких инструментов jvm подхватывает классы маркеры
+- Retantion в контексте анотации
+- понятие композиции
+
+Maven
+- профайлы в maven
+- утечка памяти. Как решить?
+- архетип в maven
+- test jar dependency
+- версионность в maven. Snapshot
+
+Spring
+- scope prototype
+- что лучше singlton vs prototyp
+- абстрактный бин
+- destroy method
+- post constract
+- @conditional
+- чем использование springboot выгоднее чем обычного springframevork
+- @enable autoconfiguration что туда входит
+- halce индикатор
+- актуатор, как его подключить
+- метрики в springboot
+- property placeholder configurar
+
+Spring MVC
+- ModuleAndView
+- dispatcher servlet
+
+- filtres
+- как генерировать токен. Если секьюрети авторизация
+
+БД
+- как в Oracle реализована функция автоинкрементация
+- что такое сиквенс
+- посмотреть последние 20-30 транзакций в оракле
+- в оракле есть каскадное удаление, но нет апдейта. Как его реализовать?
+
+- что такое union
+- примеры one-to-one and many-to-many
+
+JUNIT
+- как работают assert
+- в каких случаях используют мокирование
+
+- плюсы и минусы JPA
+- какой принцип IBatice
+- зачем нужно писать dialect
+- в каких случаях использовать EntityManger а в каких Session
+- как работает JoinColumn
+- orphan Removel. Чем отличается от каскадного удаления
+- что использовать hibernate для автоинкрементации id
+- что такое Enbadeble
+- сколько уровней кеша в hibernate
+
+

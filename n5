@@ -1,0 +1,38 @@
+- задачи для arrayList, hashMap and LinkedHashMap
+- что такое ClassLoader, какие виды есть
+- что такое immutability, как реализован класс immutability
+- @Override and @SuppredWarning
+- nio. Отличие между io and nio
+- отличие Input and Outpu Strim от Wrriter, Reader
+- основное преимущество BufferOutputStream
+- задача метода flush
+- зачем внутренние классы
+- дженерик <? extend R> and <? super R>
+
+maven
+- archetype
+- center Repository vs Remote Repository
+- m2 directory
+- почему там хранятся все версии
+- зачем нужны profile
+
+spring MVC
+- как spring MVC работает с локалью
+- как выглядят куки
+- интерсепторы в MVC
+- основные принципы работы с ошибками
+
+Hibernate
+- как создать primiry key
+- как сделать forean key
+- genetater strategy, зачем нужен кастомный
+- lazy loading, где без UI, почему не по умолчанию
+- что из себя представляет cash 2-го уровня
+
+REST
+- что представляет рест архитектура
+- rest более безопастный, как сделать
+- чем отличается put от post
+- head and options
+- в чем преимущества и недостатки
+ 
